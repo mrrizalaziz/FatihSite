@@ -1,0 +1,21 @@
+/*Css frame ~GetHubs*/
+body {
+    background-color:  #99d6ff;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+   background: Green;
+     text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    padding: 0em 1em; /* I guess it looks cooler this way */
+}
+
+head {
+  border:20px solid blue;
+  }
